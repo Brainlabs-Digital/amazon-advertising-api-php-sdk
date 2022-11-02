@@ -1,13 +1,3 @@
 name: Amazon Advertising API PHP SDK
-description: SDK for the Amazon Advertising API.
-ownership:
-  owner: joe
-  maintainers:
-    - joe
-public-info:
-  reach: library
-  release-date: 2018-01-01
-  departments:
-    - Tech
-  platforms:
-    - amazon-advertising
+meta:
+  ignore: true
